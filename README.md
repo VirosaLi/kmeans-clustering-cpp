@@ -1,7 +1,7 @@
 # K-Means clustering in C++
 
 ## Forked Repo for CSE 569S
-This program is already refactored and ported into the provided framework. This acts as a reference for the original program.
+This program is already refactored and ported into the provided framework. This acts as a reference to the original program.
 
 Changes made in the framework include:
 * Separate a header from the cpp file.
