@@ -1,5 +1,18 @@
 # K-Means clustering in C++
 
+## Forked Repo for CSE 569S
+This program is already refactored and ported into the provided framework. This acts as a reference for the original program.
+
+Changes made in the framework include:
+* Separate a header from the cpp file.
+* Replace deprecated libraries.
+* Use more robust RNG.
+* Port the main function to the framework's cli.
+* New I/O functions.
+* And more...
+
+## Description From Original Author
+
 #### This is a C++ implementation of the simple K-Means clustering algorithm.
 
 K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups). The goal of this algorithm is to find groups in the data, with the number of groups represented by the variable K. The algorithm works iteratively to assign each data point to one of K groups based on the features that are provided. Data points are clustered based on feature similarity.
