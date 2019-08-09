@@ -1,17 +1,18 @@
 # K-Means clustering in C++
 
 ## Forked Repo for CSE 569S
-This program is already refactored and ported into the provided framework. This acts as a reference to the original program.
+This program is already refactored and ported into the provided framework. This is a reference to the original program.
 
 Changes made in the framework include:
 * Separate a header from the cpp file.
 * Replace deprecated libraries.
 * Use more robust RNG.
-* Port the main function to the framework's cli.
+* Port the main function to the framework's CLI.
 * New I/O functions.
 * And more...
 
-## Description From Original Author
+
+## Original Description From the Author
 
 #### This is a C++ implementation of the simple K-Means clustering algorithm.
 
